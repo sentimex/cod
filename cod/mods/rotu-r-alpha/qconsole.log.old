@@ -1,0 +1,1931 @@
+
+Logfile opened on Sat Aug 31 11:04:40 2024
+
+
+^1Error: Could not load xmodel "weapon_m4gre_sp_silencer_reflex".
+^1Error: Could not load xmodel "weapon_g36".
+^1Error: Could not load xmodel "weapon_crossbow_1".
+^1Error: Could not load xmodel "weapon_mw2_f2000_wm".
+^1Error: Could not load xmodel "weapon_spas12".
+^1Error: Could not load xmodel "weapon_aug".
+^1Error: Could not load xmodel "mw2_mp5k_worldmodel".
+^1Error: Could not load xmodel "mw2_intervention_wm".
+By using this software you agree to the usage conditions you can find at https://github.com/callofduty4x/CoD4x_Server#usage-conditions-for-server-hosters
+-----------------------------------
+^4Calculate referenced files checksums...
+^4CRC32 for usermaps/mp_fnrp_beach/mp_fnrp_beach.iwd is e341d825 Len 15907174
+^4CRC32 for mods/rotu-r-alpha/2d.iwd is 51b155c Len 97698424
+^4CRC32 for mods/rotu-r-alpha/ccfg.iwd is 5943ca7 Len 3418
+^4CRC32 for mods/rotu-r-alpha/sound.iwd is 36568161 Len 58822124
+^4CRC32 for mods/rotu-r-alpha/weapons.iwd is dde7deca Len 276792
+^4CRC32 for main/iw_11.iwd is e9cf411f Len 151420446
+^4CRC32 for zone/spanish/code_post_gfx_mp.ff is b144581c Len 89196
+^4CRC32 for zone/spanish/common_mp.ff is 4ef7a074 Len 13517381
+^4CRC32 for mods/rotu-r-alpha/mod.ff is 7f587d Len 29120579
+^4CRC32 for usermaps/mp_fnrp_beach/mp_fnrp_beach.ff is 8a51f0a Len 22118334
+^4CRC32 for usermaps/mp_fnrp_beach/mp_fnrp_beach_load.ff is 363c33c8 Len 283
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot10 num 10
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot11 num 11
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot12 num 12
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot13 num 13
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot14 num 14
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot15 num 15
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot16 num 16
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot17 num 17
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot18 num 18
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot19 num 19
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot20 num 20
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot21 num 21
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot22 num 22
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot23 num 23
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot24 num 24
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot25 num 25
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot26 num 26
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot27 num 27
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot28 num 28
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot29 num 29
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot30 num 30
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot31 num 31
+throwing script exception: player field isbot is read-only
+Steam: Server connected successfully
+GameServer is not VAC Secure!
+GameServer SteamID: [A:1:1130369033]
+Resolving cod4master.activision.com 
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+cod4master.activision.com resolved to 185.34.107.159:20810
+^5Hitch warning: 8025 msec frame time
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot32 num 32
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot33 num 33
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot34 num 34
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot35 num 35
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot36 num 36
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot37 num 37
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot38 num 38
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot39 num 39
+throwing script exception: player field isbot is read-only
+Resolving cod4master.activision.com
+cod4master.activision.com resolved to 185.34.107.159:20800
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for [H2H]*Sentimex num 0 from: 186.189.85.154:28960<=>192.168.1.2:28961
+Received packet 0 of stats data
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for (PCI)MONOMARIO num 1 from: 181.1.206.105:28960<=>192.168.1.2:28961
+Received packet 0 of stats data
+throwing script exception: player field isbot is read-only
+throwing script exception: effect "dust/dust_trail_IR" not precached
+Say (PCI)MONOMARIO: aqui esta el truco
+Say (PCI)MONOMARIO: mientras los otros corren como loco
+Say (PCI)MONOMARIO: tu te pones aqui de asesin y sos invisible
+Say (PCI)MONOMARIO: aver si funciona
+Say (PCI)MONOMARIO: seeee
+Player [H2H]*Sentimex^7, 0 dropped: EXE_DISCONNECTED
+Going from CS_ZOMBIE to CS_FREE for client 0
+Say (PCI)MONOMARIO: lo ves?
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+reconnected: 186.189.85.154:28960
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for [H2H]*Sentimex num 0 from: 186.189.85.154:28960<=>192.168.1.2:28961
+Received packet 0 of stats data
+Say (PCI)MONOMARIO: mira dodne puse la torreta jejeje
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Player [H2H]*Sentimex^7, 0 dropped: EXE_DISCONNECTED
+Going from CS_ZOMBIE to CS_FREE for client 0
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for Sentimex num 0 from: 192.168.1.2:28960<=>192.168.1.2:28961
+Received packet 0 of stats data
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Say Sentimex: mi señora saldra y de ahy le damos todo el dia
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Player (PCI)MONOMARIO^7, 1 dropped: EXE_DISCONNECTED
+Going from CS_ZOMBIE to CS_FREE for client 1
+map_rotate...
+"sv_mapRotation" is: "map mp_backlot map mp_bloc map mp_bog map mp_cargoship map mp_citystreets map mp_convoy map mp_countdown map mp_crash map mp_crossfire map mp_farm map mp_overgrown map mp_pipeline map mp_showdown map mp_strike map mp_vacant"
+
+"sv_mapRotationCurrent" is: "map mp_fnrp_bridge"
+
+Player bot10^7, 10 dropped: Unknown reason for dropping
+Player bot11^7, 11 dropped: Unknown reason for dropping
+Player bot12^7, 12 dropped: Unknown reason for dropping
+Player bot13^7, 13 dropped: Unknown reason for dropping
+Player bot14^7, 14 dropped: Unknown reason for dropping
+Player bot15^7, 15 dropped: Unknown reason for dropping
+Player bot16^7, 16 dropped: Unknown reason for dropping
+Player bot17^7, 17 dropped: Unknown reason for dropping
+Player bot18^7, 18 dropped: Unknown reason for dropping
+Player bot19^7, 19 dropped: Unknown reason for dropping
+Player bot20^7, 20 dropped: Unknown reason for dropping
+Player bot21^7, 21 dropped: Unknown reason for dropping
+Player bot22^7, 22 dropped: Unknown reason for dropping
+Player bot23^7, 23 dropped: Unknown reason for dropping
+Player bot24^7, 24 dropped: Unknown reason for dropping
+Player bot25^7, 25 dropped: Unknown reason for dropping
+Player bot26^7, 26 dropped: Unknown reason for dropping
+Player bot27^7, 27 dropped: Unknown reason for dropping
+Player bot28^7, 28 dropped: Unknown reason for dropping
+Player bot29^7, 29 dropped: Unknown reason for dropping
+Player bot30^7, 30 dropped: Unknown reason for dropping
+Player bot31^7, 31 dropped: Unknown reason for dropping
+Player bot32^7, 32 dropped: Unknown reason for dropping
+Player bot33^7, 33 dropped: Unknown reason for dropping
+Player bot34^7, 34 dropped: Unknown reason for dropping
+Player bot35^7, 35 dropped: Unknown reason for dropping
+Player bot36^7, 36 dropped: Unknown reason for dropping
+Player bot37^7, 37 dropped: Unknown reason for dropping
+Player bot38^7, 38 dropped: Unknown reason for dropping
+Player bot39^7, 39 dropped: Unknown reason for dropping
+==== ShutdownGame (1) ====
+------ Server Initialization ------
+Server: mp_fnrp_bridge
+SV_SpawnServer checksum feed: 0x29bef38a
+g:\vvvv\main\localized_spanish_iw00.iwd: -1133804886
+g:\vvvv\main\localized_spanish_iw01.iwd: 979319220
+g:\vvvv\main\localized_spanish_iw02.iwd: -707299953
+g:\vvvv\main\localized_spanish_iw03.iwd: -770299200
+g:\vvvv\main\localized_spanish_iw04.iwd: 388659855
+g:\vvvv\main\localized_spanish_iw05.iwd: -1856209985
+g:\vvvv\main\localized_spanish_iw06.iwd: -1713101681
+g:\vvvv\main\iw_00.iwd: -1190209610
+g:\vvvv\main\iw_01.iwd: 648005745
+g:\vvvv\main\iw_02.iwd: -165391090
+g:\vvvv\main\iw_03.iwd: 309900900
+g:\vvvv\main\iw_04.iwd: 499941093
+g:\vvvv\main\iw_05.iwd: 489843315
+g:\vvvv\main\iw_06.iwd: -715502781
+g:\vvvv\main\iw_07.iwd: -1041447890
+g:\vvvv\main\iw_08.iwd: -1079795827
+g:\vvvv\main\iw_09.iwd: -1846635013
+g:\vvvv\main\iw_10.iwd: 173489706
+g:\vvvv\main\iw_11.iwd: -292863836
+g:\vvvv\main\iw_12.iwd: 1043426064
+g:\vvvv\main\iw_13.iwd: 2115322797
+g:\vvvv\main\jcod4x_00.iwd: 94291723
+g:\vvvv\main\xbase_00.iwd: -978930286
+g:\vvvv\usermaps\mp_fnrp_bridge\mp_fnrp_bridge.iwd: -305630758
+g:\vvvv\mods\rotu-r-alpha\2d.iwd: -1347762074
+g:\vvvv\mods\rotu-r-alpha\ccfg.iwd: -871994400
+g:\vvvv\mods\rotu-r-alpha\rotu_svr_mapscripts.iwd: -859491383
+g:\vvvv\mods\rotu-r-alpha\sound.iwd: -1033015839
+g:\vvvv\mods\rotu-r-alpha\weapons.iwd: -77265645
+Current language: spanish
+Current fs_basepath: g:/vvvv
+Current fs_homepath: g:/vvvv
+Current search path:
+g:\vvvv\mods\rotu-r-alpha\weapons.iwd (113 files)
+g:\vvvv\mods\rotu-r-alpha\sound.iwd (215 files)
+g:\vvvv\mods\rotu-r-alpha\rotu_svr_mapscripts.iwd (44 files)
+g:\vvvv\mods\rotu-r-alpha\ccfg.iwd (3 files)
+g:\vvvv\mods\rotu-r-alpha\2d.iwd (448 files)
+g:/vvvv/mods/rotu-r-alpha
+g:\vvvv\usermaps\mp_fnrp_bridge\mp_fnrp_bridge.iwd (3 files)
+g:/vvvv/usermaps/mp_fnrp_bridge
+g:\vvvv\main\xbase_00.iwd (115 files)
+g:\vvvv\main\jcod4x_00.iwd (67 files)
+g:\vvvv\main\iw_13.iwd (265 files)
+g:\vvvv\main\iw_12.iwd (33 files)
+g:\vvvv\main\iw_11.iwd (448 files)
+g:\vvvv\main\iw_10.iwd (230 files)
+g:\vvvv\main\iw_09.iwd (447 files)
+g:\vvvv\main\iw_08.iwd (66 files)
+g:\vvvv\main\iw_07.iwd (34 files)
+g:\vvvv\main\iw_06.iwd (416 files)
+g:\vvvv\main\iw_05.iwd (716 files)
+g:\vvvv\main\iw_04.iwd (765 files)
+g:\vvvv\main\iw_03.iwd (670 files)
+g:\vvvv\main\iw_02.iwd (1296 files)
+g:\vvvv\main\iw_01.iwd (1456 files)
+g:\vvvv\main\iw_00.iwd (1054 files)
+g:/vvvv/main
+g:/vvvv/main_shared
+g:/vvvv/players
+g:\vvvv\main\localized_spanish_iw06.iwd (1048 files)
+    localized assets iwd file for spanish
+g:\vvvv\main\localized_spanish_iw05.iwd (1466 files)
+    localized assets iwd file for spanish
+g:\vvvv\main\localized_spanish_iw04.iwd (2249 files)
+    localized assets iwd file for spanish
+g:\vvvv\main\localized_spanish_iw03.iwd (2937 files)
+    localized assets iwd file for spanish
+g:\vvvv\main\localized_spanish_iw02.iwd (2772 files)
+    localized assets iwd file for spanish
+g:\vvvv\main\localized_spanish_iw01.iwd (2971 files)
+    localized assets iwd file for spanish
+g:\vvvv\main\localized_spanish_iw00.iwd (2903 files)
+    localized assets iwd file for spanish
+
+File Handles:
+handle 2: qconsole.log
+handle 3: enterleave.log
+----------------------
+25250 files in iwd files
+Unloading assets from fastfile 'mp_fnrp_beach' and creating default assets stubs
+Unloaded fastfile 'mp_fnrp_beach'
+PMem_Free( mp_fnrp_beach, Low )
+PMem_Free( mp_fnrp_beach, High )
+Adding fastfile 'mp_fnrp_bridge' to queue
+Loading fastfile 'mp_fnrp_bridge'
+used 28.22 MB memory in DB alloc
+Waited 424 msec for asset 'maps/mp/mp_fnrp_bridge.d3dbsp' of type 'col_map_mp'.
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Feb 12 2009
+fs_ignoreLocalized is cheat protected.
+fs_ignoreLocalized is cheat protected.
+Loaded fastfile 'mp_fnrp_bridge' in 641ms (146ms waiting)
+^1Error: Waited 169 msec for missing asset "codescripts/delete.gsx".
+-----------------------------------
+^1Error: Could not load xmodel "weapon_m4gre_sp_silencer_reflex".
+^1Error: Could not load xmodel "weapon_g36".
+^1Error: Could not load xmodel "weapon_crossbow_1".
+^1Error: Could not load xmodel "weapon_mw2_f2000_wm".
+^1Error: Could not load xmodel "weapon_spas12".
+^1Error: Could not load xmodel "weapon_aug".
+^1Error: Could not load xmodel "mw2_mp5k_worldmodel".
+^1Error: Could not load xmodel "mw2_intervention_wm".
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1started from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1************************************
+By using this software you agree to the usage conditions you can find at https://github.com/callofduty4x/CoD4x_Server#usage-conditions-for-server-hosters
+-----------------------------------
+^4Calculate referenced files checksums...
+^4CRC32 for usermaps/mp_fnrp_bridge/mp_fnrp_bridge.iwd is a1c9cec5 Len 221069
+^4CRC32 for mods/rotu-r-alpha/2d.iwd is 51b155c Len 97698424
+^4CRC32 for mods/rotu-r-alpha/ccfg.iwd is 5943ca7 Len 3418
+^4CRC32 for mods/rotu-r-alpha/sound.iwd is 36568161 Len 58822124
+^4CRC32 for mods/rotu-r-alpha/weapons.iwd is dde7deca Len 276792
+^4CRC32 for main/iw_11.iwd is e9cf411f Len 151420446
+^4CRC32 for zone/spanish/code_post_gfx_mp.ff is b144581c Len 89196
+^4CRC32 for zone/spanish/common_mp.ff is 4ef7a074 Len 13517381
+^4CRC32 for mods/rotu-r-alpha/mod.ff is 7f587d Len 29120579
+^4CRC32 for zone/spanish/mp_fnrp_bridge.ff is 1eb60bec Len 27280313
+^5Hitch warning: 5626 msec frame time
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 56)
+ wait 1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot10 num 10
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 56)
+ wait 1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot11 num 11
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot12 num 12
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot13 num 13
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot14 num 14
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot15 num 15
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot16 num 16
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot17 num 17
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot18 num 18
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot19 num 19
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot20 num 20
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot21 num 21
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot22 num 22
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot23 num 23
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot24 num 24
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot25 num 25
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot26 num 26
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot27 num 27
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot28 num 28
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot29 num 29
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot30 num 30
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot31 num 31
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot32 num 32
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot33 num 33
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot34 num 34
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot35 num 35
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot36 num 36
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot37 num 37
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+^5Hitch warning: 11669 msec frame time
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+throwing script exception: player field isbot is read-only
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+         *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot38 num 38
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/clients/_clients.gsc', line 61)
+ self.isBot = false;
+            *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 38)
+ [[level.callbackPlayerConnect]]();
+   Masterserver needs token to complete registration
+ Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+ Masterserver needs token to complete registration
+ Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+   *
+^1called from:
+(file 'maps/mp/gametypes/_callbacksetup.gsc', line 35)
+CodeCallback_PlayerConnect()
+*
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 174)
+  bot = addtestclient();
+        *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+Going from CS_FREE to CS_CONNECTED for bot39 num 39
+throwing script exception: player field isbot is read-only
+
+^1******* script runtime error *******
+player field isbot is read-only: (file 'scripts/bots/_bots.gsc', line 192)
+ self.isBot = true;
+            Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+*
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 183)
+  bot loadBot(); // No thread, wanna do this one by one.
+      *
+^1called from:
+(file 'scripts/bots/_bots.gsc', line 58)
+  loadBots(level.dvar["bot_count"]);
+  *
+^1started from:
+(file 'scripts/bots/_bots.gsc', line 201)
+ wait .1;
+ *
+^1************************************
+^5Hitch warning: 857 msec frame time
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Received packet 0 of stats data
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Player Sentimex^7, 0 dropped: EXE_DISCONNECTED
+Going from CS_ZOMBIE to CS_FREE for client 0
+quitting...
+All plugins have terminated
+----- Server Shutdown -----
+
+With the reason: EXE_SERVERQUIT
+==== ShutdownGame (1) ====
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Player bot10^7, 10 dropped: EXE_DISCONNECTED
+Player bot11^7, 11 dropped: EXE_DISCONNECTED
+Player bot12^7, 12 dropped: EXE_DISCONNECTED
+Player bot13^7, 13 dropped: EXE_DISCONNECTED
+Player bot14^7, 14 dropped: EXE_DISCONNECTED
+Player bot15^7, 15 dropped: EXE_DISCONNECTED
+Player bot16^7, 16 dropped: EXE_DISCONNECTED
+Player bot17^7, 17 dropped: EXE_DISCONNECTED
+Player bot18^7, 18 dropped: EXE_DISCONNECTED
+Player bot19^7, 19 dropped: EXE_DISCONNECTED
+Player bot20^7, 20 dropped: EXE_DISCONNECTED
+Player bot21^7, 21 dropped: EXE_DISCONNECTED
+Player bot22^7, 22 dropped: EXE_DISCONNECTED
+Player bot23^7, 23 dropped: EXE_DISCONNECTED
+Player bot24^7, 24 dropped: EXE_DISCONNECTED
+Player bot25^7, 25 dropped: EXE_DISCONNECTED
+Player bot26^7, 26 dropped: EXE_DISCONNECTED
+Player bot27^7, 27 dropped: EXE_DISCONNECTED
+Player bot28^7, 28 dropped: EXE_DISCONNECTED
+Player bot29^7, 29 dropped: EXE_DISCONNECTED
+Player bot30^7, 30 dropped: EXE_DISCONNECTED
+Player bot31^7, 31 dropped: EXE_DISCONNECTED
+Player bot32^7, 32 dropped: EXE_DISCONNECTED
+Player bot33^7, 33 dropped: EXE_DISCONNECTED
+Player bot34^7, 34 dropped: EXE_DISCONNECTED
+Player bot35^7, 35 dropped: EXE_DISCONNECTED
+Player bot36^7, 36 dropped: EXE_DISCONNECTED
+Player bot37^7, 37 dropped: EXE_DISCONNECTED
+Player bot38^7, 38 dropped: EXE_DISCONNECTED
+Player bot39^7, 39 dropped: EXE_DISCONNECTED
+---------------------------
+Unloading assets from fastfile 'mp_fnrp_bridge' and deleting all assets
+Unloading assets from fastfile 'mod' and deleting all assets
+Unloading assets from fastfile 'common_mp' and deleting all assets
+Unloading assets from fastfile 'localized_code_post_gfx_mp' and deleting all assets
+Unloading assets from fastfile 'code_post_gfx_mp' and deleting all assets
+Unloaded fastfile 'mp_fnrp_bridge'
+PMem_Free( mp_fnrp_bridge, Low )
+PMem_Free( mp_fnrp_bridge, High )
+Unloaded fastfile 'mod'
+PMem_Free( mod, Low )
+PMem_Free( mod, High )
+Unloaded fastfile 'common_mp'
+PMem_Free( common_mp, Low )
+PMem_Free( common_mp, High )
+Unloaded fastfile 'localized_code_post_gfx_mp'
+PMem_Free( localized_code_post_gfx_mp, Low )
+PMem_Free( localized_code_post_gfx_mp, High )
+Unloaded fastfile 'code_post_gfx_mp'
+PMem_Free( code_post_gfx_mp, Low )
+PMem_Free( code_post_gfx_mp, High )
