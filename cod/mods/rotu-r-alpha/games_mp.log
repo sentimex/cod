@@ -1,0 +1,2079 @@
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 00:03:48 2024\g_gametype\surv\mapname\mp_draw\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 00:20:02 2024\g_gametype\surv\mapname\mp_draw\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 00:22:37 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  1:28 J;2310346614476138322;0;[H2H]*Sentimex
+  1:28 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 21:59 J;2310346614476138322;1;[H2H]*Sentimex
+ 21:59 LOG_ROTU_RANK_RESTORE;2310346614476138322;1
+ 23:53 LOG_ROTU_RANK;2310346614476138322;1;47
+ 23:53 Q;2310346614476138322;1;[H2H]*Sentimex
+ 41:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 48:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 49:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 49:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 49:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 49:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 50:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 50:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 50:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 51:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 51:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 01:15:53 2024\uptime\53 minutes\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:50 J;2310346614476138322;0;[H2H]*Sentimex
+  0:50 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 01:19:57 2024\uptime\57 minutes\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:22 J;2310346614476138322;0;[H2H]*Sentimex
+  0:22 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 17:25 ExitLevel: executed
+ 17:25 ------------------------------------------------------------
+ 17:25 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 01:37:22 2024\uptime\74 minutes\g_gametype\surv\mapname\mp_fnrp_supermario\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 17:46 J;2310346614476138322;0;[H2H]*Sentimex
+ 17:46 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 18:53 LOG_ROTU_RANK;2310346614476138322;1;49
+ 18:53 Q;2310346614476138322;0;[H2H]*Sentimex
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 07:20:38 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 07:23:33 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 07:26:51 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 07:29:00 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 07:33:30 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 07:55:30 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 08:07:14 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 08:47:20 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 08:51:34 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 08:55:51 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 09:04:03 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 15:16:35 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sun Aug 25 15:20:16 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 11:50:46 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  2:28 J;2310346614476138322;0;[H2H]*Sentimex
+  2:28 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 12:09:36 2024\uptime\18 minutes\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:45 J;2310346614476138322;0;[H2H]*Sentimex
+  0:45 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  2:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  2:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  2:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  2:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  3:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  3:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  3:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  3:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  3:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  3:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  3:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  4:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  4:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  4:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  4:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  4:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  4:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+  4:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:36 ExitLevel: executed
+ 62:36 ------------------------------------------------------------
+ 62:36 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 13:12:19 2024\uptime\81 minutes\g_gametype\surv\mapname\mp_surv_red_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 63:03 J;2310346614476138322;0;[H2H]*Sentimex
+ 63:03 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 63:12 LOG_ROTU_RANK;2310346614476138322;2;12
+ 63:12 Q;2310346614476138322;0;[H2H]*Sentimex
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 13:20:04 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 13:24:29 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 16:35:18 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 16:38:59 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 17:21:49 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:43 J;2310346614476138322;0;[H2H]*Sentimex
+  0:43 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  2:41 ExitLevel: executed
+  2:41 ------------------------------------------------------------
+  2:41 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 17:24:27 2024\uptime\2 minutes\g_gametype\surv\mapname\mp_fnrp_supermario\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  3:06 J;2310346614476138322;0;[H2H]*Sentimex
+  3:06 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 14:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 39:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 40:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 62:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 63:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 64:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 65:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 77:54 ExitLevel: executed
+ 77:54 ------------------------------------------------------------
+ 77:54 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 18:39:47 2024\uptime\78 minutes\g_gametype\surv\mapname\mp_fnrp_corridors\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 78:20 J;2310346614476138322;0;[H2H]*Sentimex
+ 78:20 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 78:29 LOG_ROTU_RANK;2310346614476138322;2;44
+ 78:29 Q;2310346614476138322;0;[H2H]*Sentimex
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 19:45:37 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 19:48:54 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 20:09:38 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 14:20 J;2310346614476138322;0;[H2H]*Sentimex
+ 14:20 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 27:14 LOG_ROTU_RANK;2310346614476138322;2;44
+ 27:14 Q;2310346614476138322;0;[H2H]*Sentimex
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 20:41:50 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 20:45:00 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 20:47:55 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 20:49:40 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 20:58:15 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 21:20:21 2024\g_gametype\surv\mapname\mp_surv_new_moon_lg\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 21:26:39 2024\g_gametype\surv\mapname\mp_surv_jakram\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  9:16 J;2310346614476138322;0;[H2H]*Sentimex
+  9:16 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 10:59 ExitLevel: executed
+ 10:59 ------------------------------------------------------------
+ 10:59 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 21:37:38 2024\uptime\11 minutes\g_gametype\surv\mapname\mp_bsf_tunnel_v2\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 11:25 J;2310346614476138322;0;[H2H]*Sentimex
+ 11:25 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Wed Aug 28 21:42:27 2024\g_gametype\surv\mapname\mp_surv_jakram\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 11:26:29 2024\g_gametype\surv\mapname\mp_surv_jakram\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 11:46:29 2024\g_gametype\surv\mapname\mp_surv_jakram\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 12:07:53 2024\g_gametype\surv\mapname\mp_surv_jakram\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 12:09:45 2024\g_gametype\surv\mapname\mp_fnrp_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:56 J;2310346614476138322;0;[H2H]*Sentimex
+  0:56 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 12:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 12:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 12:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 12:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 12:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 12:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 12:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 12:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 12:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 13:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 14:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 15:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 16:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 17:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 28:29 LOG_ROTU_RANK;2310346614476138322;2;51
+ 28:29 Q;2310346614476138322;0;[H2H]*Sentimex
+ 28:50 J;2310346614476138322;0;[H2H]*Sentimex
+ 28:50 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 29:45 ExitLevel: executed
+ 29:45 ------------------------------------------------------------
+ 29:45 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 12:39:27 2024\uptime\29 minutes\g_gametype\surv\mapname\mp_surv_springfield\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 30:11 J;2310346614476138322;0;[H2H]*Sentimex
+ 30:11 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 41:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 41:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 43:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 44:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 45:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 46:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 47:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 48:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 48:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 48:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 48:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 48:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 57:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 58:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 59:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 60:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 61:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 74:41 sayteam;2310346614476138322;0;[H2H]*Sentimex;^5I need ammo!
+ 83:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 83:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 84:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 84:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 84:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 84:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 84:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 84:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 84:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 84:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 84:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 84:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 85:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 86:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 87:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 88:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 89:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 90:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 91:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 92:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+105:03 ExitLevel: executed
+105:03 ------------------------------------------------------------
+105:03 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 13:54:51 2024\uptime\105 minutes\g_gametype\surv\mapname\mp_surv_plaza\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 17:40:45 2024\g_gametype\surv\mapname\mp_fnrp_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 10:35 J;2310346614476138322;0;[H2H]*Sentimex
+ 10:35 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 13:41 ExitLevel: executed
+ 13:41 ------------------------------------------------------------
+ 13:41 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 17:54:27 2024\uptime\13 minutes\g_gametype\surv\mapname\mp_surv_plaza\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 19:38 J;2310346614476138322;0;[H2H]*Sentimex
+ 19:38 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 20:31 LOG_ROTU_RANK;2310346614476138322;3;39
+ 20:31 Q;2310346614476138322;0;[H2H]*Sentimex
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 18:04:47 2024\g_gametype\surv\mapname\mp_fnrp_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  4:58 J;2310346614476138322;0;[H2H]*Sentimex
+  4:58 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  5:03 LOG_ROTU_RANK;2310346614476138322;3;39
+  5:03 Q;2310346614476138322;0;[H2H]*Sentimex
+  5:36 J;2310346614476138322;0;[H2H]*Sentimex
+  5:36 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  7:15 J;2310346614476138322;1;[H2H]*Sentimex
+  7:15 LOG_ROTU_RANK_RESTORE;2310346614476138322;1
+  7:25 say;2310346614476138322;1;[H2H]*Sentimex;sdsg
+  7:28 LOG_ROTU_RANK;2310346614476138322;3;39
+  7:28 Q;2310346614476138322;1;[H2H]*Sentimex
+  7:46 LOG_ROTU_RANK;2310346614476138322;3;39
+  7:46 Q;2310346614476138322;0;[H2H]*Sentimex
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 18:20:12 2024\uptime\15 minutes\g_gametype\surv\mapname\mp_fnrp_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 18:25:08 2024\g_gametype\surv\mapname\mp_fnrp_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:54 J;2310346614476138322;0;[H2H]*Sentimex
+  0:54 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  0:55 LOG_ROTU_RANK;2310346614476138322;3;39
+  0:55 Q;2310346614476138322;0;[H2H]*Sentimex
+  1:50 J;2310346614476138322;0;[H2H]*Sentimex
+  1:50 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  2:03 LOG_ROTU_RANK;2310346614476138322;3;39
+  2:03 Q;2310346614476138322;0;[H2H]*Sentimex
+ 17:39 J;2310346614476138322;0;[H2H]*Sentimex
+ 17:39 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 18:20 LOG_ROTU_RANK;2310346614476138322;3;39
+ 18:20 Q;2310346614476138322;0;[H2H]*Sentimex
+ 18:44 J;2310346614476138322;0;[H2H]*Sentimex
+ 18:44 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 19:34 LOG_ROTU_RANK;2310346614476138322;3;39
+ 19:34 Q;2310346614476138322;0;[H2H]*Sentimex
+ 20:55 J;2310346614476138322;0;[H2H]*Sentimex
+ 20:55 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 20:59 LOG_ROTU_RANK;2310346614476138322;3;39
+ 20:59 Q;2310346614476138322;0;[H2H]*Sentimex
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 18:46:58 2024\uptime\21 minutes\g_gametype\surv\mapname\mp_fnrp_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 19:57:22 2024\g_gametype\surv\mapname\mp_fnrp_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 20:04:55 2024\g_gametype\surv\mapname\mp_fnrp_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 22:54:51 2024\g_gametype\surv\mapname\mp_hospital\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 22:56:44 2024\g_gametype\surv\mapname\mp_hospital\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  3:05 J;2310346614476138322;0;[H2H]*Sentimex
+  3:05 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  3:38 LOG_ROTU_RANK;2310346614476138322;3;44
+  3:38 Q;2310346614476138322;0;[H2H]*Sentimex
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 23:04:58 2024\g_gametype\surv\mapname\mp_surv_plaza\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  1:10 J;2310346614353718901;0;(PCI)MONOMARIO
+  1:10 LOG_ROTU_RANK_RESTORE;2310346614353718901;0
+  1:54 J;2310346614476138322;1;[H2H]*Sentimex
+  1:54 LOG_ROTU_RANK_RESTORE;2310346614476138322;1
+  4:13 say;2310346614353718901;0;(PCI)MONOMARIO;haces puntos como loco aqui
+  5:14 say;2310346614476138322;1;[H2H]*Sentimex;tu amigo se llama hielen?
+  9:29 say;2310346614353718901;0;(PCI)MONOMARIO;hay va actualizar ahi me dice que tiene la version 1 recein
+  9:37 say;2310346614353718901;0;(PCI)MONOMARIO;le falta parche 1.6 y 1.7
+  9:48 say;2310346614476138322;1;[H2H]*Sentimex;por eso po
+ 10:06 say;2310346614476138322;1;[H2H]*Sentimex;solo parchea 1.6 y 1.7
+ 11:19 say;2310346614353718901;0;(PCI)MONOMARIO;si logra entrar mañana se te llena el sv
+ 11:30 say;2310346614353718901;0;(PCI)MONOMARIO;somos muchos
+ 11:46 say;2310346614476138322;1;[H2H]*Sentimex;bn
+ 12:50 say;2310346614353718901;0;(PCI)MONOMARIO;ahi los instalo va aprobar
+ 13:04 say;2310346614476138322;1;[H2H]*Sentimex;te corre bn
+ 13:11 say;2310346614353718901;0;(PCI)MONOMARIO;a mi un expectaculo
+ 14:11 say;2310346614476138322;1;[H2H]*Sentimex;le falta la 1.7
+ 18:00 say;2310346614353718901;0;(PCI)MONOMARIO;aqui se puede scar la minigun varias veces no?
+ 18:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:18 say;2310346614476138322;1;[H2H]*Sentimex;ta infinita
+ 18:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 18:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 19:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:46 say;2310346614476138322;1;[H2H]*Sentimex;earahora
+ 20:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:51 say;2310346614476138322;1;[H2H]*Sentimex;reseteo
+ 20:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:55 LOG_ROTU_RANK;2310346614476138322;3;46
+ 20:55 Q;2310346614476138322;1;[H2H]*Sentimex
+ 20:56 say;2310346614353718901;0;(PCI)MONOMARIO;ok
+ 20:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:58 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 20:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 21:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 21:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 22:20 ExitLevel: executed
+ 22:20 ------------------------------------------------------------
+ 22:20 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\2\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 23:27:16 2024\uptime\22 minutes\g_gametype\surv\mapname\mp_fnrp_chocho\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 22:42 J;2310346614353718901;0;(PCI)MONOMARIO
+ 22:42 LOG_ROTU_RANK_RESTORE;2310346614353718901;0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 23:28:14 2024\g_gametype\surv\mapname\mp_surv_plaza\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  1:18 J;2310346614353718901;0;(PCI)MONOMARIO
+  1:18 LOG_ROTU_RANK_RESTORE;2310346614353718901;0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 23:31:02 2024\g_gametype\surv\mapname\mp_surv_plaza\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:29 J;2310346614353718901;0;(PCI)MONOMARIO
+  0:29 LOG_ROTU_RANK_RESTORE;2310346614353718901;0
+  4:26 LOG_ROTU_RANK;2310346614353718901;3;39
+  4:26 Q;2310346614353718901;0;(PCI)MONOMARIO
+  7:17 J;2310346614353718901;0;(PCI)MONOMARIO
+  7:17 LOG_ROTU_RANK_RESTORE;2310346614353718901;0
+  8:40 LOG_ROTU_RANK;2310346614353718901;3;39
+  8:40 Q;2310346614353718901;0;(PCI)MONOMARIO
+  9:22 J;2310346614353718901;0;(PCI)MONOMARIO
+  9:22 LOG_ROTU_RANK_RESTORE;2310346614353718901;0
+  9:57 J;2310346614476138322;1;[H2H]*Sentimex
+  9:57 LOG_ROTU_RANK_RESTORE;2310346614476138322;1
+ 26:06 say;2310346614476138322;1;[H2H]*Sentimex;entra?
+ 26:16 say;2310346614353718901;0;(PCI)MONOMARIO;ahora aninguno le da jaja
+ 26:58 say;2310346614476138322;1;[H2H]*Sentimex;como
+ 27:21 say;2310346614353718901;0;(PCI)MONOMARIO;que no le entra a ningun sv ahora
+ 27:37 say;2310346614476138322;1;[H2H]*Sentimex;firewall
+ 28:35 say;2310346614476138322;1;[H2H]*Sentimex;agrege el iw3mp.exe al firewall
+ 31:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:29 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 31:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:03 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 32:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:24 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:41 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:46 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 33:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:31 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:43 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 34:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:05 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:08 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:26 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:37 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:48 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:49 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:50 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 35:54 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:06 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:17 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:22 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:35 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:36 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 36:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:00 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:04 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:07 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:09 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:11 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:30 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:33 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:34 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:38 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:39 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:40 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:44 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:45 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:47 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:51 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:52 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:53 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:56 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:57 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 37:59 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:01 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:02 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:10 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:12 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:13 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:14 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:15 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:16 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:25 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:27 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:28 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 38:32 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 42:34 say;2310346614353718901;0;(PCI)MONOMARIO;se me apago el telefono cero mensajes
+ 42:52 say;2310346614476138322;1;[H2H]*Sentimex;lol
+ 43:45 say;2310346614353718901;0;(PCI)MONOMARIO;mañana le va apreguntar aaunso amigos aver si pueden entrar a este sv
+ 43:56 say;2310346614476138322;1;[H2H]*Sentimex;dale
+ 43:57 say;2310346614353718901;0;(PCI)MONOMARIO;son todos de venezuela
+ 44:39 say;2310346614476138322;1;[H2H]*Sentimex;voy a subir el server a mega
+ 44:55 say;2310346614353718901;0;(PCI)MONOMARIO;para descarga rapida
+ 44:57 say;2310346614476138322;1;[H2H]*Sentimex;para q lo descargen 
+ 45:09 say;2310346614476138322;1;[H2H]*Sentimex;no tengan q descargar nada
+ 45:55 say;2310346614476138322;1;[H2H]*Sentimex;ya lo tengo en mega.nz
+ 46:03 say;2310346614353718901;0;(PCI)MONOMARIO;:O
+ 46:25 say;2310346614353718901;0;(PCI)MONOMARIO;yo tengo casi todos los mapas me falta ese hospital
+ 46:39 say;2310346614476138322;1;[H2H]*Sentimex;por wzp te paso link
+ 46:46 say;2310346614353718901;0;(PCI)MONOMARIO;okys
+ 47:03 say;2310346614353718901;0;(PCI)MONOMARIO;igual yo alguna hora lod ejo bajando y me pongo a tomar mate
+ 47:20 say;2310346614476138322;1;[H2H]*Sentimex;dale ahy va
+ 47:37 say;2310346614353718901;0;(PCI)MONOMARIO;esta apagado mi celu y ya hasta mañana no lo enciendo jeje
+ 47:46 say;2310346614353718901;0;(PCI)MONOMARIO;es tarde aqui
+ 47:52 say;2310346614353718901;0;(PCI)MONOMARIO;todos duermen
+ 48:03 say;2310346614476138322;1;[H2H]*Sentimex;ok dale
+ 50:22 say;2310346614353718901;0;(PCI)MONOMARIO;me imagino bridge o tunel semejante despelote
+ 50:48 say;2310346614476138322;1;[H2H]*Sentimex;xD
+ 51:57 say;2310346614476138322;1;[H2H]*Sentimex;ahy  te lo mande
+ 52:10 say;2310346614353718901;0;(PCI)MONOMARIO;okys mañnaña le husmeo
+ 52:24 say;2310346614476138322;1;[H2H]*Sentimex;esta full
+ 55:15 say;2310346614353718901;0;(PCI)MONOMARIO;me fui a dormir mañana le sigo
+ 55:23 say;2310346614353718901;0;(PCI)MONOMARIO;aver si consigo gente
+ 55:24 say;2310346614476138322;1;[H2H]*Sentimex;dale}
+ 55:27 LOG_ROTU_RANK;2310346614353718901;3;48
+ 55:27 Q;2310346614353718901;0;(PCI)MONOMARIO
+ 55:38 say;2310346614476138322;1;[H2H]*Sentimex;demas}
+ 55:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 55:42 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 55:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 55:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 55:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 55:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 55:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 55:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 55:55 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:18 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:19 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:20 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:21 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:23 LUK_DEBUG;killedZombieTypes for scary aint defined, bro
+ 56:44 LOG_ROTU_RANK;2310346614476138322;4;11
+ 56:44 Q;2310346614476138322;1;[H2H]*Sentimex
+ 57:49 ------------------------------------------------------------
+ 57:49 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Fri Aug 30 23:31:02 2024\uptime\57 minutes\g_gametype\surv\mapname\mp_surv_plaza\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 00:33:24 2024\g_gametype\surv\mapname\mp_surv_plaza\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 00:52:28 2024\g_gametype\surv\mapname\mp_surv_plaza\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  1:15 J;2310346614476138322;0;[H2H]*Sentimex
+  1:15 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  8:53 ExitLevel: executed
+  8:53 ------------------------------------------------------------
+  8:53 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 01:01:18 2024\uptime\8 minutes\g_gametype\surv\mapname\mp_fnrp_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  9:22 J;2310346614476138322;0;[H2H]*Sentimex
+  9:22 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 10:54 LOG_ROTU_RANK;2310346614476138322;4;13
+ 10:54 Q;2310346614476138322;0;[H2H]*Sentimex
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 01:27:44 2024\g_gametype\surv\mapname\mp_surv_plaza\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  9:31 J;2310346614476138322;0;[H2H]*Sentimex
+  9:31 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 11:19 ExitLevel: executed
+ 11:19 ------------------------------------------------------------
+ 11:19 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 01:39:01 2024\uptime\11 minutes\g_gametype\surv\mapname\mp_fnrp_movies\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 11:47 J;2310346614476138322;0;[H2H]*Sentimex
+ 11:47 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 15:26 LOG_ROTU_RANK;2310346614476138322;4;14
+ 15:26 Q;2310346614476138322;0;[H2H]*Sentimex
+ 16:41 ------------------------------------------------------------
+ 16:41 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 01:39:01 2024\uptime\16 minutes\g_gametype\surv\mapname\mp_fnrp_movies\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 10:19:24 2024\g_gametype\surv\mapname\mp_surv_plaza\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  2:34 J;2310346614353718901;0;(PCI)MONOMARIO
+  2:34 LOG_ROTU_RANK_RESTORE;2310346614353718901;0
+  6:09 ExitLevel: executed
+  6:09 ------------------------------------------------------------
+  6:09 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 10:25:32 2024\uptime\6 minutes\g_gametype\surv\mapname\mp_ffc_de_attack\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  6:33 J;2310346614353718901;0;(PCI)MONOMARIO
+  6:33 LOG_ROTU_RANK_RESTORE;2310346614353718901;0
+  9:10 J;2310346614476138322;1;[H2H]*Sentimex
+  9:10 LOG_ROTU_RANK_RESTORE;2310346614476138322;1
+  9:57 say;2310346614353718901;0;(PCI)MONOMARIO;elegi esta pro que estoy comiendo  en la pc jaja
+ 12:16 say;2310346614353718901;0;(PCI)MONOMARIO;choripan con salsa criolla
+ 24:21 say;2310346614353718901;0;(PCI)MONOMARIO;hahjaja
+ 29:41 say;2310346614353718901;0;(PCI)MONOMARIO;mmmm 5 torretas no pueden matar un perro
+ 30:26 say;2310346614353718901;0;(PCI)MONOMARIO;algo esta fallando
+ 31:22 say;2310346614353718901;0;(PCI)MONOMARIO;ah ya
+ 32:53 say;2310346614353718901;0;(PCI)MONOMARIO;ahi las separe
+ 32:56 say;2310346614353718901;0;(PCI)MONOMARIO;y nada
+ 40:14 say;2310346614353718901;0;(PCI)MONOMARIO;tenes steam?
+ 40:46 say;2310346614353718901;0;(PCI)MONOMARIO;steam
+ 40:51 say;2310346614353718901;0;(PCI)MONOMARIO;es para juegos
+ 40:55 say;2310346614353718901;0;(PCI)MONOMARIO;originales
+ 41:12 say;2310346614353718901;0;(PCI)MONOMARIO;ahi tengo todos los call of duty
+ 41:21 say;2310346614353718901;0;(PCI)MONOMARIO;menos este que es trucho
+ 41:34 say;2310346614353718901;0;(PCI)MONOMARIO;todos los sniper elite
+ 42:01 say;2310346614353718901;0;(PCI)MONOMARIO;y todos los call of juarez
+ 42:09 say;2310346614353718901;0;(PCI)MONOMARIO;que son como esto pero de pistolas
+ 42:14 say;2310346614353718901;0;(PCI)MONOMARIO;del salvaje oeste
+ 43:03 say;2310346614353718901;0;(PCI)MONOMARIO;seee a correr como loco pero hay un truco ahi para que no te peguen
+ 43:40 say;2310346614353718901;0;(PCI)MONOMARIO;a ver si sale en la lista
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 11:04:36 2024\g_gametype\surv\mapname\mp_fnrp_beach\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+  0:39 J;2310346614476138322;0;[H2H]*Sentimex
+  0:39 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  1:02 J;2310346614353718901;1;(PCI)MONOMARIO
+  1:02 LOG_ROTU_RANK_RESTORE;2310346614353718901;1
+  1:14 say;2310346614353718901;1;(PCI)MONOMARIO;aqui esta el truco
+  1:31 say;2310346614353718901;1;(PCI)MONOMARIO;mientras los otros corren como loco
+  1:40 say;2310346614353718901;1;(PCI)MONOMARIO;tu te pones aqui de asesin y sos invisible
+  2:36 say;2310346614353718901;1;(PCI)MONOMARIO;aver si funciona
+  2:50 say;2310346614353718901;1;(PCI)MONOMARIO;seeee
+  3:03 LOG_ROTU_RANK;2310346614476138322;4;14
+  3:03 Q;2310346614476138322;0;[H2H]*Sentimex
+  3:13 say;2310346614353718901;1;(PCI)MONOMARIO;lo ves?
+  4:20 J;2310346614476138322;0;[H2H]*Sentimex
+  4:20 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+  4:33 say;2310346614353718901;1;(PCI)MONOMARIO;mira dodne puse la torreta jejeje
+ 16:34 LOG_ROTU_RANK;2310346614476138322;4;14
+ 16:34 Q;2310346614476138322;0;[H2H]*Sentimex
+ 17:48 J;2310346614476138322;0;Sentimex
+ 17:48 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 23:43 say;2310346614476138322;0;Sentimex;mi señora saldra y de ahy le damos todo el dia
+ 29:16 LOG_ROTU_RANK;2310346614353718901;4;37
+ 29:16 Q;2310346614353718901;1;(PCI)MONOMARIO
+ 30:11 ExitLevel: executed
+ 30:11 ------------------------------------------------------------
+ 30:11 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\^1SERVIDOR ROTU CHILENO DE PRUEBA\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 11:34:45 2024\uptime\30 minutes\g_gametype\surv\mapname\mp_fnrp_bridge\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+ 30:35 J;2310346614476138322;0;Sentimex
+ 30:35 LOG_ROTU_RANK_RESTORE;2310346614476138322;0
+ 30:52 LOG_ROTU_RANK;2310346614476138322;4;14
+ 30:52 Q;2310346614476138322;0;Sentimex
+  0:00 ------------------------------------------------------------
+  0:00 InitGame: \fs_game\mods/rotu-r-alpha\sv_maxclients\64\version\CoD4 X - win_mingw-x86 build 1153 May  1 2022\shortversion\-\build\1153\branch\master\revision\54db3b9c742a86eb594f47fd0caa98f7d8921aec\_CoD4 X Site\http://cod4x.ovh\protocol\21\sv_privateClients\10\sv_hostname\RotU-Revolution Server\sv_minPing\0\sv_maxPing\900\sv_disableClientConsole\0\sv_voice\0\g_mapStartTime\Sat Aug 31 11:38:17 2024\g_gametype\surv\mapname\mp_fnrp_beach\sv_maxRate\25000\sv_floodprotect\4\sv_pure\1\_Website\puffyforum.com\_Mod\Reign of the Undead-REVOLUTION\_ModVer\0.7 Alpha\_Maps\Reign of the Undead Maps\gamename\Call of Duty 4\g_compassShowEnemies\0\g_logTimeStampInSeconds\0
+263:43 J;2310346614353718901;0;(PCI)MONOMARIO
+263:43 LOG_ROTU_RANK_RESTORE;2310346614353718901;0
+263:59 LOG_ROTU_RANK;2310346614353718901;4;37
+263:59 Q;2310346614353718901;0;(PCI)MONOMARIO

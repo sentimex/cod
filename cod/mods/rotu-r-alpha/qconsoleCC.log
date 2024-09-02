@@ -1,0 +1,168 @@
+
+Logfile opened on Thu Aug 08 05:13:58 2024
+
+
+^1Error: Could not load xmodel "weapon_m4gre_sp_silencer_reflex".
+^1Error: Could not load xmodel "weapon_g36".
+^1Error: Could not load xmodel "weapon_crossbow_1".
+^1Error: Could not load xmodel "weapon_mw2_f2000_wm".
+^1Error: Could not load xmodel "weapon_spas12".
+^1Error: Could not load xmodel "weapon_aug".
+^1Error: Could not load xmodel "mw2_mp5k_worldmodel".
+^1Error: Could not load xmodel "mw2_intervention_wm".
+By using this software you agree to the usage conditions you can find at https://github.com/callofduty4x/CoD4x_Server#usage-conditions-for-server-hosters
+-----------------------------------
+^4Calculate referenced files checksums...
+^4CRC32 for usermaps/mp_surv_new_moon_lg/mp_surv_new_moon_lg.iwd is 431bf79d Len 5484140
+^4CRC32 for mods/rotu-r-alpha/2d.iwd is 51b155c Len 97698424
+^4CRC32 for mods/rotu-r-alpha/ccfg.iwd is 9e1ef0b3 Len 3420
+^4CRC32 for mods/rotu-r-alpha/sound.iwd is 36568161 Len 58822124
+^4CRC32 for mods/rotu-r-alpha/weapons.iwd is dde7deca Len 276792
+^4CRC32 for main/iw_11.iwd is e9cf411f Len 151420446
+^4CRC32 for zone/spanish/code_post_gfx_mp.ff is b144581c Len 89196
+^4CRC32 for zone/spanish/common_mp.ff is 4ef7a074 Len 13517381
+^4CRC32 for mods/rotu-r-alpha/mod.ff is 7f587d Len 29120579
+^4CRC32 for usermaps/mp_surv_new_moon_lg/mp_surv_new_moon_lg.ff is e0473e3c Len 27277592
+^4CRC32 for usermaps/mp_surv_new_moon_lg/mp_surv_new_moon_lg_load.ff is a2ea2bfe Len 396
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot2 num 2
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot3 num 3
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot4 num 4
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot5 num 5
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot6 num 6
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot7 num 7
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot8 num 8
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot9 num 9
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot10 num 10
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot11 num 11
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot12 num 12
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot13 num 13
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot14 num 14
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot15 num 15
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot16 num 16
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot17 num 17
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot18 num 18
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot19 num 19
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot20 num 20
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot21 num 21
+throwing script exception: player field isbot is read-only
+Steam: Server connected successfully
+GameServer is not VAC Secure!
+GameServer SteamID: [A:1:1081442324]
+Resolving cod4master.activision.com 
+Sending master heartbeat from 0.0.0.0:28961 to 188.165.57.239:20810
+Sending master heartbeat from 0.0.0.0:28961 to 84.21.7.14:20810
+cod4master.activision.com resolved to 185.34.107.159:20810
+Resolving cod2master.activision.com (IPv4)
+cod2master.activision.com resolved to 185.34.107.159:20810
+Resolving cod2master.activision.com (IPv6)
+cod2master.activision.com has no IPv6 address.
+Sending heartbeat to cod2master.activision.com
+Resolving cod2authorize.activision.com (IPv4)
+cod2authorize.activision.com has no IPv4 address.
+Resolving cod2authorize.activision.com (IPv6)
+cod2authorize.activision.com has no IPv6 address.
+Couldn't resolve address: cod2authorize.activision.com
+Resolving cod4master.activision.com
+cod4master.activision.com resolved to 185.34.107.159:20800
+^5Hitch warning: 9267 msec frame time
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2002:7775:9dcf:4f78:dc3:a0bf!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2002:7775:9dcf:4f78:dc3:a0bf!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending heartbeat to cod2master.activision.com
+quitting...
+All plugins have terminated
+----- Server Shutdown -----
+
+With the reason: EXE_SERVERQUIT
+Sending heartbeat to cod2master.activision.com
+Sending master heartbeat from 0.0.0.0:28961 to 188.165.57.239:20810
+Sending master heartbeat from 0.0.0.0:28961 to 84.21.7.14:20810
+Sending heartbeat to cod2master.activision.com
+==== ShutdownGame (1) ====
+Player bot2^7, 2 dropped: EXE_DISCONNECTED
+Player bot3^7, 3 dropped: EXE_DISCONNECTED
+Player bot4^7, 4 dropped: EXE_DISCONNECTED
+Player bot5^7, 5 dropped: EXE_DISCONNECTED
+Player bot6^7, 6 dropped: EXE_DISCONNECTED
+Player bot7^7, 7 dropped: EXE_DISCONNECTED
+Player bot8^7, 8 dropped: EXE_DISCONNECTED
+Player bot9^7, 9 dropped: EXE_DISCONNECTED
+Player bot10^7, 10 dropped: EXE_DISCONNECTED
+Player bot11^7, 11 dropped: EXE_DISCONNECTED
+Player bot12^7, 12 dropped: EXE_DISCONNECTED
+Player bot13^7, 13 dropped: EXE_DISCONNECTED
+Player bot14^7, 14 dropped: EXE_DISCONNECTED
+Player bot15^7, 15 dropped: EXE_DISCONNECTED
+Player bot16^7, 16 dropped: EXE_DISCONNECTED
+Player bot17^7, 17 dropped: EXE_DISCONNECTED
+Player bot18^7, 18 dropped: EXE_DISCONNECTED
+Player bot19^7, 19 dropped: EXE_DISCONNECTED
+Player bot20^7, 20 dropped: EXE_DISCONNECTED
+Player bot21^7, 21 dropped: EXE_DISCONNECTED
+---------------------------
+Unloading assets from fastfile 'mp_surv_new_moon_lg' and deleting all assets
+Unloading assets from fastfile 'mod' and deleting all assets
+Unloading assets from fastfile 'common_mp' and deleting all assets
+Unloading assets from fastfile 'localized_code_post_gfx_mp' and deleting all assets
+Unloading assets from fastfile 'code_post_gfx_mp' and deleting all assets
+Unloaded fastfile 'mp_surv_new_moon_lg'
+PMem_Free( mp_surv_new_moon_lg, Low )
+PMem_Free( mp_surv_new_moon_lg, High )
+Unloaded fastfile 'mod'
+PMem_Free( mod, Low )
+PMem_Free( mod, High )
+Unloaded fastfile 'common_mp'
+PMem_Free( common_mp, Low )
+PMem_Free( common_mp, High )
+Unloaded fastfile 'localized_code_post_gfx_mp'
+PMem_Free( localized_code_post_gfx_mp, Low )
+PMem_Free( localized_code_post_gfx_mp, High )
+Unloaded fastfile 'code_post_gfx_mp'
+PMem_Free( code_post_gfx_mp, Low )
+PMem_Free( code_post_gfx_mp, High )

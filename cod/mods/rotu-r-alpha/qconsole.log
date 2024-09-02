@@ -1,0 +1,1305 @@
+
+Logfile opened on Sat Aug 31 11:38:20 2024
+
+
+^1Error: Could not load xmodel "weapon_m4gre_sp_silencer_reflex".
+^1Error: Could not load xmodel "weapon_g36".
+^1Error: Could not load xmodel "weapon_crossbow_1".
+^1Error: Could not load xmodel "weapon_mw2_f2000_wm".
+^1Error: Could not load xmodel "weapon_spas12".
+^1Error: Could not load xmodel "weapon_aug".
+^1Error: Could not load xmodel "mw2_mp5k_worldmodel".
+^1Error: Could not load xmodel "mw2_intervention_wm".
+By using this software you agree to the usage conditions you can find at https://github.com/callofduty4x/CoD4x_Server#usage-conditions-for-server-hosters
+-----------------------------------
+^4Calculate referenced files checksums...
+^4CRC32 for usermaps/mp_fnrp_beach/mp_fnrp_beach.iwd is e341d825 Len 15907174
+^4CRC32 for mods/rotu-r-alpha/2d.iwd is 51b155c Len 97698424
+^4CRC32 for mods/rotu-r-alpha/ccfg.iwd is 5943ca7 Len 3418
+^4CRC32 for mods/rotu-r-alpha/sound.iwd is 36568161 Len 58822124
+^4CRC32 for mods/rotu-r-alpha/weapons.iwd is dde7deca Len 276792
+^4CRC32 for main/iw_11.iwd is e9cf411f Len 151420446
+^4CRC32 for zone/spanish/code_post_gfx_mp.ff is b144581c Len 89196
+^4CRC32 for zone/spanish/common_mp.ff is 4ef7a074 Len 13517381
+^4CRC32 for mods/rotu-r-alpha/mod.ff is 7f587d Len 29120579
+^4CRC32 for usermaps/mp_fnrp_beach/mp_fnrp_beach.ff is 8a51f0a Len 22118334
+^4CRC32 for usermaps/mp_fnrp_beach/mp_fnrp_beach_load.ff is 363c33c8 Len 283
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot10 num 10
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot11 num 11
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot12 num 12
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot13 num 13
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot14 num 14
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot15 num 15
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot16 num 16
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot17 num 17
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot18 num 18
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot19 num 19
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot20 num 20
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot21 num 21
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot22 num 22
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot23 num 23
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot24 num 24
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot25 num 25
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot26 num 26
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot27 num 27
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot28 num 28
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot29 num 29
+throwing script exception: player field isbot is read-only
+Steam: Server connected successfully
+GameServer is not VAC Secure!
+GameServer SteamID: [A:1:1665994761]
+Resolving cod4master.activision.com 
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+cod4master.activision.com resolved to 185.34.107.159:20810
+^5Hitch warning: 6427 msec frame time
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot30 num 30
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot31 num 31
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot32 num 32
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot33 num 33
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot34 num 34
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot35 num 35
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot36 num 36
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot37 num 37
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot38 num 38
+throwing script exception: player field isbot is read-only
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for bot39 num 39
+throwing script exception: player field isbot is read-only
+Resolving cod4master.activision.com
+cod4master.activision.com resolved to 185.34.107.159:20800
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+throwing script exception: player field isbot is read-only
+Going from CS_FREE to CS_CONNECTED for (PCI)MONOMARIO num 0 from: 181.1.206.105:28960<=>192.168.1.2:28961
+Received packet 0 of stats data
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Player (PCI)MONOMARIO^7, 0 dropped: EXE_DISCONNECTED
+Going from CS_ZOMBIE to CS_FREE for client 0
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Sending master heartbeat from 192.168.1.2:28961 to 188.165.57.239:20810
+Sending master heartbeat from 192.168.1.2:28961 to 84.21.7.14:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2a02:730:1220::187]:20810
+Masterserver needs token to complete registration
+Sending master heartbeat from [::]:28961 to [2001:41d0:a:37ad::17]:20810
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Cvar net_ip6 is undefined. Announcing address 2803:c180:2003:c847:d02b:995b:122f:cead!
+Masterserver needs token to complete registration
+Masterserver needs token to complete registration
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
+Can not register server on the masterserver. Server needs to provide a valid token in cvar sv_authtoken.
